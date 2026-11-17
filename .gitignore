@@ -1,1 +1,8 @@
-py1.py
+# Python files
+*.pyc
+__pycache__/
+
+# Secret files
+token.txt
+.env
+.env.*
